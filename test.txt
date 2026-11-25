@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 otra cosa
+=======
+otra cosa
+
+
+release-production - 10 
+32234
+>>>>>>> main
